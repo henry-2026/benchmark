@@ -1,3 +1,12 @@
 [submodule "STREAM"]
 	path = STREAM
 	url = https://github.com/hengchen2023/STREAM.git
+[submodule "byte-unixbench"]
+	path = byte-unixbench
+	url = https://github.com/hengchen2023/byte-unixbench.git
+[submodule "coremark-pro"]
+	path = coremark-pro
+	url = https://github.com/hengchen2023/coremark-pro.git
+[submodule "Iozone"]
+	path = Iozone
+	url = https://github.com/hengchen2023/Iozone.git
