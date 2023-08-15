@@ -10,3 +10,6 @@
 [submodule "Iozone"]
 	path = Iozone
 	url = https://github.com/hengchen2023/Iozone.git
+[submodule "coremark"]
+	path = coremark
+	url = https://github.com/eembc/coremark.git
